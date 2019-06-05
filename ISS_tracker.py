@@ -66,4 +66,5 @@ location.write(time.ctime(over), font=style)
 # input()
 # turtle.exitonclick()
 
+# Wanted to used the default Turtle library method
 turtle.done()
