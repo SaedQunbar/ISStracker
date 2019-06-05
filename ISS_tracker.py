@@ -40,9 +40,9 @@ iss.setheading(90)
 iss.penup()
 iss.goto(lon, lat)
 
-# University Commons, Chapel Hill
-lat = 35.896902
-lon = -79.074937
+# Chapel Hill
+lat = 35.913200
+lon = -79.055847
 
 location = turtle.Turtle()
 location.penup()
